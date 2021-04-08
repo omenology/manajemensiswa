@@ -1,0 +1,37 @@
+{
+  "name": "manajemensiswa",
+  "version": "1.0.0",
+  "description": "sentralisasi data siswa (latihan rest mongo)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omenology/manajemensiswa.git"
+  },
+  "keywords": [
+    "REST",
+    "manjemen",
+    "mongo"
+  ],
+  "author": "omn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/omenology/manajemensiswa/issues"
+  },
+  "homepage": "https://github.com/omenology/manajemensiswa#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "helmet": "^4.4.1",
+    "joi": "^17.4.0",
+    "jsonwebtoken": "^8.5.1",
+    "moment": "^2.29.1",
+    "mongoose": "^5.11.18",
+    "mongoose-seed": "^0.6.0",
+    "swagger-jsdoc": "^6.0.0",
+    "swagger-ui-express": "^4.1.6"
+  }
+}
