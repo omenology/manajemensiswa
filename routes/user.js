@@ -25,14 +25,14 @@ module.exports = route;
 
 // documentation
 
-/**
+/* *
  * @swagger
  * tags:
  *  name: User
  *  descripiton: user managing API
  */
 
-/**
+/* *
  * @swagger
  * components:
  *  schemas:
